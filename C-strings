@@ -1,0 +1,5 @@
+
+str1="Hello"
+print("String 1:,"str1)
+str1=str1*3
+print("Concatenated same string:",str1)
